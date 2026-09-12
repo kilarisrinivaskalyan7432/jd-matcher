@@ -1,0 +1,167 @@
+python
+java
+javascript
+typescript
+sql
+mysql
+postgresql
+mongodb
+django
+flask
+fastapi
+react
+angular
+vue
+nodejs
+express
+git
+docker
+kubernetes
+aws
+azure
+gcp
+linux
+bash
+data structures
+algorithms
+oop
+dbms
+operating systems
+computer networks
+machine learning
+deep learning
+nlp
+computer vision
+tensorflow
+pytorch
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+rest api
+graphql
+microservices
+system design
+html
+css
+tailwind
+bootstrap
+redis
+kafka
+rabbitmq
+ci/cd
+testing
+unit testing
+pytest
+data structures
+algorithms
+oop
+design patterns
+dbms
+operating systems
+computer networks
+system design
+low level design
+high level design
+rest api
+graphql
+microservices
+api design
+authentication
+authorization
+jwt
+oauth
+sql
+mysql
+postgresql
+mongodb
+redis
+elasticsearch
+python
+java
+javascript
+typescript
+c
+c++
+go
+rust
+ruby
+php
+django
+flask
+fastapi
+spring boot
+express
+nextjs
+react
+angular
+vue
+svelte
+html
+css
+tailwind
+bootstrap
+git
+github
+gitlab
+docker
+kubernetes
+ci/cd
+jenkins
+github actions
+linux
+bash
+shell scripting
+aws
+azure
+gcp
+ec2
+s3
+lambda
+rds
+cloudformation
+terraform
+ansible
+prometheus
+grafana
+logging
+monitoring
+machine learning
+deep learning
+nlp
+computer vision
+tensorflow
+pytorch
+keras
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+data analysis
+data visualization
+feature engineering
+model deployment
+mlops
+llm
+generative ai
+rag
+transformers
+hugging face
+jupyteragile
+scrum
+kanban
+jira
+confluence
+communication
+problem solving
+teamwork
+leadership
+mentoring
+code review
+testing
+unit testing
+integration testing
+pytest
+jest
