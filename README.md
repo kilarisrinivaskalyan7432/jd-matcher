@@ -1,3 +1,7 @@
+# Main application direct link
+[JD Matcher](https://srinivaskalyanresumejdmatcher.streamlit.app/)
+  
+  
   # Resume–JD Matcher (ATS-style Assistant)
 
 A Python + Streamlit web app that compares your resume with a job description and provides:
