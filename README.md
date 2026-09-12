@@ -64,5 +64,6 @@ Open `http://localhost:8501` in your browser.
 
 ## Author
 
-Your Name  
+Kilari Srinivas Kalyan 
 [LinkedIn](https://www.linkedin.com/in/srinivas-kalyan7432) | [GitHub](https://github.com/kilarisrinivaskalyan7432)
+2026-09-12
